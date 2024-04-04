@@ -5,6 +5,7 @@ Developed and implemented an authenticated internal web application for credenti
 ## Task at hand
 
 Cool Tech faced the challenge of efficiently managing login credentials across various platforms including WordPress sites, servers, and financial accounts. Due to the sensitive nature of these credentials, ensuring authentication was important. Additionally, with the utilization of multiple WordPress and custom sites, the manual management of login details has become burdensome and error-prone. Recognizing this challenge, I was tasked with developing an internal web application for credential management. This solution needed to include user login and registration functionalities, distinct user roles, and tailored resource access for each user to streamline the management process and enhance security. Through careful design and implementation, I successfully created a comprehensive web application that addressed Cool Tech's credential management challenges effectively.
+App is live here -> https://cool-locker.onrender.com/
 
 ## Features
 
@@ -48,3 +49,5 @@ Cool Tech faced the challenge of efficiently managing login credentials across v
   - Admin - email: sam@gmail.com password: Sam123
   - Manager - email: alex@gmail.com password: Alex123
   - Normal - register yourself
+
+Currently learning responsive web design to make app responsive
