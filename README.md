@@ -4,7 +4,7 @@ Developed and implemented an authenticated internal web application for credenti
 
 ## Task at hand
 
-Cool Tech faced the challenge of efficiently managing login credentials across various platforms including WordPress sites, servers, and financial accounts. Due to the sensitive nature of these credentials, ensuring authentication was important. Additionally, with the utilization of multiple WordPress and custom sites, the manual management of login details has become burdensome and error-prone. Recognizing this challenge, I was tasked with developing an internal web application for credential management. This solution needed to include user login and registration functionalities, distinct user roles, and tailored resource access for each user to streamline the management process and enhance security. Through careful design and implementation, I successfully created a comprehensive web application that addressed Cool Tech's credential management challenges effectively.
+Cool Tech faced the challenge of efficiently managing login credentials across various platforms. Due to the sensitive nature of these credentials, ensuring authentication was important. Additionally, with the utilization of multiple WordPress and custom sites, the manual management of login details has become burdensome and error-prone. Recognizing this challenge, I was tasked with developing an internal web application for credential management. This solution needed to include user login and registration functionalities, distinct user roles, and tailored resource access for each user to streamline the management process and enhance security. Through careful design and implementation, I successfully created a comprehensive web application that addressed Cool Tech's credential management challenges effectively.
 
 #### App is live here -> https://cool-locker.onrender.com/
 
@@ -25,7 +25,9 @@ Cool Tech faced the challenge of efficiently managing login credentials across v
   - MongoDB - Database
   - Mongoose - Backend
   - JWT - JSON Web Token - Frontend/Backend
-  - MERN Stack
+  - Javascript
+  - HTML
+  - CSS
 
 ## Installation
 
