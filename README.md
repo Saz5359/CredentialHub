@@ -1,4 +1,4 @@
-# Cool Locker
+# CredentialHub
 
 Developed and implemented an authenticated internal web application for credential management, tailored for businesses operating across multiple online platforms. This solution provides a secure repository for platform credentials for a range of destinations such as WordPress sites, servers, and financial accounts
 
